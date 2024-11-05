@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+gjgText can be **bold**, _italic_, or ~~strikethrough~~.
 
 [https://github.com/gargneha372/RAG-PDF](./another-page.html).
 
