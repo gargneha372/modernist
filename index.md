@@ -4,7 +4,7 @@ layout: default
 
 gjgText can be **bold**, _italic_, or ~~strikethrough~~.
 
-[link for another page](./another-page.html).
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/gargneha372/RAG-PDF)
 
 There should be whitespace between paragraphs.
 
